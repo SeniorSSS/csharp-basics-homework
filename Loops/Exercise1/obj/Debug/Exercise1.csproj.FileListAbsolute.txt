@@ -1,0 +1,2 @@
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise1\obj\Debug\Exercise1.csprojAssemblyReference.cache
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache

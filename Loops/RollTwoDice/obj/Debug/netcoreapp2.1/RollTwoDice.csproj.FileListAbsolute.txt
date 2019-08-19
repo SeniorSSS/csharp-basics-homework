@@ -1,0 +1,10 @@
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\RollTwoDice\bin\Debug\netcoreapp2.1\RollTwoDice.deps.json
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\RollTwoDice\bin\Debug\netcoreapp2.1\RollTwoDice.runtimeconfig.json
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\RollTwoDice\bin\Debug\netcoreapp2.1\RollTwoDice.runtimeconfig.dev.json
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\RollTwoDice\bin\Debug\netcoreapp2.1\RollTwoDice.dll
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\RollTwoDice\bin\Debug\netcoreapp2.1\RollTwoDice.pdb
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\RollTwoDice\obj\Debug\netcoreapp2.1\RollTwoDice.csproj.CoreCompileInputs.cache
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\RollTwoDice\obj\Debug\netcoreapp2.1\RollTwoDice.AssemblyInfoInputs.cache
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\RollTwoDice\obj\Debug\netcoreapp2.1\RollTwoDice.AssemblyInfo.cs
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\RollTwoDice\obj\Debug\netcoreapp2.1\RollTwoDice.dll
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\RollTwoDice\obj\Debug\netcoreapp2.1\RollTwoDice.pdb

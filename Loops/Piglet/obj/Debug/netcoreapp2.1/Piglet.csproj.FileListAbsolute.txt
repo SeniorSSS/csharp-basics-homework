@@ -1,0 +1,10 @@
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Piglet\bin\Debug\netcoreapp2.1\Piglet.deps.json
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Piglet\bin\Debug\netcoreapp2.1\Piglet.runtimeconfig.json
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Piglet\bin\Debug\netcoreapp2.1\Piglet.runtimeconfig.dev.json
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Piglet\bin\Debug\netcoreapp2.1\Piglet.dll
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Piglet\bin\Debug\netcoreapp2.1\Piglet.pdb
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Piglet\obj\Debug\netcoreapp2.1\Piglet.csproj.CoreCompileInputs.cache
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Piglet\obj\Debug\netcoreapp2.1\Piglet.AssemblyInfoInputs.cache
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Piglet\obj\Debug\netcoreapp2.1\Piglet.AssemblyInfo.cs
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Piglet\obj\Debug\netcoreapp2.1\Piglet.dll
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Piglet\obj\Debug\netcoreapp2.1\Piglet.pdb

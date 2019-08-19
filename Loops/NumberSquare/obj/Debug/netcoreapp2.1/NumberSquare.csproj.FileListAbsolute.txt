@@ -1,0 +1,11 @@
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\NumberSquare\bin\Debug\netcoreapp2.1\NumberSquare.deps.json
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\NumberSquare\bin\Debug\netcoreapp2.1\NumberSquare.runtimeconfig.json
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\NumberSquare\bin\Debug\netcoreapp2.1\NumberSquare.runtimeconfig.dev.json
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\NumberSquare\bin\Debug\netcoreapp2.1\NumberSquare.dll
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\NumberSquare\bin\Debug\netcoreapp2.1\NumberSquare.pdb
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\NumberSquare\obj\Debug\netcoreapp2.1\NumberSquare.csproj.CoreCompileInputs.cache
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\NumberSquare\obj\Debug\netcoreapp2.1\NumberSquare.AssemblyInfoInputs.cache
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\NumberSquare\obj\Debug\netcoreapp2.1\NumberSquare.AssemblyInfo.cs
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\NumberSquare\obj\Debug\netcoreapp2.1\NumberSquare.dll
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\NumberSquare\obj\Debug\netcoreapp2.1\NumberSquare.pdb
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\NumberSquare\obj\Debug\netcoreapp2.1\NumberSquare.csprojAssemblyReference.cache

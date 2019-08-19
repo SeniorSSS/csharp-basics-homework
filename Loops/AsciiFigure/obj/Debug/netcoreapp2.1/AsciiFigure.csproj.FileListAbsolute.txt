@@ -1,0 +1,10 @@
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\AsciiFigure\bin\Debug\netcoreapp2.1\AsciiFigure.deps.json
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\AsciiFigure\bin\Debug\netcoreapp2.1\AsciiFigure.runtimeconfig.json
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\AsciiFigure\bin\Debug\netcoreapp2.1\AsciiFigure.runtimeconfig.dev.json
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\AsciiFigure\bin\Debug\netcoreapp2.1\AsciiFigure.dll
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\AsciiFigure\bin\Debug\netcoreapp2.1\AsciiFigure.pdb
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\AsciiFigure\obj\Debug\netcoreapp2.1\AsciiFigure.csproj.CoreCompileInputs.cache
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\AsciiFigure\obj\Debug\netcoreapp2.1\AsciiFigure.AssemblyInfoInputs.cache
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\AsciiFigure\obj\Debug\netcoreapp2.1\AsciiFigure.AssemblyInfo.cs
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\AsciiFigure\obj\Debug\netcoreapp2.1\AsciiFigure.dll
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\AsciiFigure\obj\Debug\netcoreapp2.1\AsciiFigure.pdb
