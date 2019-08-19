@@ -1,0 +1,7 @@
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arithmetics\GravityCalculator\bin\Debug\GravityCalculator.exe.config
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arithmetics\GravityCalculator\bin\Debug\GravityCalculator.exe
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arithmetics\GravityCalculator\bin\Debug\GravityCalculator.pdb
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arithmetics\GravityCalculator\obj\Debug\GravityCalculator.csprojAssemblyReference.cache
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arithmetics\GravityCalculator\obj\Debug\GravityCalculator.csproj.CoreCompileInputs.cache
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arithmetics\GravityCalculator\obj\Debug\GravityCalculator.exe
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arithmetics\GravityCalculator\obj\Debug\GravityCalculator.pdb
