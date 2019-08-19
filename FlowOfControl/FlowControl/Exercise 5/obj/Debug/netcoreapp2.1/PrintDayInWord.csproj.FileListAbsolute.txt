@@ -1,0 +1,11 @@
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\bin\Debug\netcoreapp2.1\PrintDayInWord.deps.json
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\bin\Debug\netcoreapp2.1\PrintDayInWord.runtimeconfig.json
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\bin\Debug\netcoreapp2.1\PrintDayInWord.runtimeconfig.dev.json
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\bin\Debug\netcoreapp2.1\PrintDayInWord.dll
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\bin\Debug\netcoreapp2.1\PrintDayInWord.pdb
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\obj\Debug\netcoreapp2.1\PrintDayInWord.csprojAssemblyReference.cache
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\obj\Debug\netcoreapp2.1\PrintDayInWord.csproj.CoreCompileInputs.cache
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\obj\Debug\netcoreapp2.1\PrintDayInWord.AssemblyInfoInputs.cache
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\obj\Debug\netcoreapp2.1\PrintDayInWord.AssemblyInfo.cs
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\obj\Debug\netcoreapp2.1\PrintDayInWord.dll
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\obj\Debug\netcoreapp2.1\PrintDayInWord.pdb

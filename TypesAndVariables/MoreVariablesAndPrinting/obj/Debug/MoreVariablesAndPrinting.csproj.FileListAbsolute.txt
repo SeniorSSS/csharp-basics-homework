@@ -1,0 +1,7 @@
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\bin\Debug\MoreVariablesAndPrinting.exe.config
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\bin\Debug\MoreVariablesAndPrinting.exe
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\bin\Debug\MoreVariablesAndPrinting.pdb
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\obj\Debug\MoreVariablesAndPrinting.csprojAssemblyReference.cache
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\obj\Debug\MoreVariablesAndPrinting.csproj.CoreCompileInputs.cache
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\obj\Debug\MoreVariablesAndPrinting.exe
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\obj\Debug\MoreVariablesAndPrinting.pdb

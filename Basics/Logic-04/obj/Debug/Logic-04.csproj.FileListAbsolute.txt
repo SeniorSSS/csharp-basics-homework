@@ -1,0 +1,6 @@
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\bin\Debug\Logic-04.exe.config
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\bin\Debug\Logic-04.exe
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\bin\Debug\Logic-04.pdb
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\obj\Debug\Logic-04.csproj.CoreCompileInputs.cache
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\obj\Debug\Logic-04.exe
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\obj\Debug\Logic-04.pdb
