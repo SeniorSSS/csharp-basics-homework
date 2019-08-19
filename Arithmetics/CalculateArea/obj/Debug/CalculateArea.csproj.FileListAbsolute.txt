@@ -1,7 +1,0 @@
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arithmetics\CalculateArea\bin\Debug\CalculateArea.exe.config
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arithmetics\CalculateArea\bin\Debug\CalculateArea.exe
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arithmetics\CalculateArea\bin\Debug\CalculateArea.pdb
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arithmetics\CalculateArea\obj\Debug\CalculateArea.csprojAssemblyReference.cache
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arithmetics\CalculateArea\obj\Debug\CalculateArea.csproj.CoreCompileInputs.cache
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arithmetics\CalculateArea\obj\Debug\CalculateArea.exe
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arithmetics\CalculateArea\obj\Debug\CalculateArea.pdb
