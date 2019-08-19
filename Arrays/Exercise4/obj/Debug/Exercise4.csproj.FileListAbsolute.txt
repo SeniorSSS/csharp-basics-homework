@@ -1,6 +1,0 @@
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise4\bin\Debug\Exercise4.exe.config
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise4\bin\Debug\Exercise4.exe
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise4\bin\Debug\Exercise4.pdb
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise4\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise4\obj\Debug\Exercise4.exe
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise4\obj\Debug\Exercise4.pdb

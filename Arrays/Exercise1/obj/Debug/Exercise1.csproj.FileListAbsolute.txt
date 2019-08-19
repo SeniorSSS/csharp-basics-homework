@@ -1,7 +1,0 @@
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise1\bin\Debug\Exercise1.exe.config
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise1\bin\Debug\Exercise1.exe
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise1\bin\Debug\Exercise1.pdb
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise1\obj\Debug\Exercise1.csprojAssemblyReference.cache
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise1\obj\Debug\Exercise1.exe
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise1\obj\Debug\Exercise1.pdb
