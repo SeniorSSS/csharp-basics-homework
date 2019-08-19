@@ -1,0 +1,7 @@
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
