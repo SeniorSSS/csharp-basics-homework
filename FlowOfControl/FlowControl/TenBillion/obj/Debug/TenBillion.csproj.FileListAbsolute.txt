@@ -1,7 +1,0 @@
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\TenBillion\bin\Debug\TenBillion.exe.config
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\TenBillion\bin\Debug\TenBillion.exe
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\TenBillion\bin\Debug\TenBillion.pdb
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\TenBillion\obj\Debug\TenBillion.csprojAssemblyReference.cache
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\TenBillion\obj\Debug\TenBillion.csproj.CoreCompileInputs.cache
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\TenBillion\obj\Debug\TenBillion.exe
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\TenBillion\obj\Debug\TenBillion.pdb

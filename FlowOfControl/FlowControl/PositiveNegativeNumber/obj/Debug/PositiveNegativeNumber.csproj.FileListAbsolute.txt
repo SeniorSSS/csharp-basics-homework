@@ -1,7 +1,0 @@
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\bin\Debug\PositiveNegativeNumber.exe.config
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\bin\Debug\PositiveNegativeNumber.exe
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\bin\Debug\PositiveNegativeNumber.pdb
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\obj\Debug\PositiveNegativeNumber.csprojAssemblyReference.cache
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\obj\Debug\PositiveNegativeNumber.csproj.CoreCompileInputs.cache
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\obj\Debug\PositiveNegativeNumber.exe
-C:\Users\codelex\Desktop\SeniorS\CloneCodelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\obj\Debug\PositiveNegativeNumber.pdb
