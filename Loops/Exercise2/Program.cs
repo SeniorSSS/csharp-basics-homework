@@ -1,16 +1,23 @@
-﻿using System;
+using System;
 
-namespace Exercise2
+
+namespace LoopsExercise2
 {
     class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            int i, n;
+            int i, n, result;
 
-            Console.WriteLine("Input number of terms : ");
+           Console.WriteLine("Input number of terms : ");
 
-            n = Convert.ToInt32(Console.ReadLine());
+           n = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Input i : ");
+
+            i = Convert.ToInt32(Console.ReadLine());
+
+            result = i;
 
             /*
             todo - complete loop to multiply i with itself n times, it is NOT allowed to use Math.Pow()
@@ -18,6 +25,15 @@ namespace Exercise2
               Console.WriteLine(........);
             }
             */
+
+
+            for (var a = 2; a <= i; a++)
+            {
+                result *= i;
+            }
+
+            Console.WriteLine("Rezultåts {0}", result);
         }
     }
 }
+
